@@ -2,7 +2,8 @@
 
 [← Back](https://github.com/joycequoos/WEB-API-com-.NET-8-e-SQL-Server)
 
-![Controller, Interface and Service Flow](https://github.com/joycequoos/Controllers_Services/blob/main/img/01_Fx_Controller_Interface_Service_2.jpg)
+<img width="276" height="462" alt="image" src="https://github.com/user-attachments/assets/8b090407-6256-4fdf-a047-e695eb56b6f7" />
+
 
 Continuing on from the authors listing endpoint, this step implements the search for a specific author by their **ID**, following the same flow already established: Service → Controller → Endpoint test.
 
